@@ -1,5 +1,5 @@
 exports.info = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, telegram, youtube, kapanbotaktif, grupch1, grupch2) => {
-	return `🔥 ${Bot_Aero} 🔥
+	return `🔥 ${Bot-Aero} 🔥
   
 HALO *${id.split("@s.whatsapp.net")[0]}*
 "
@@ -11,7 +11,7 @@ Sebelum menggunakan bot ini ada baiknya kalian melihat menu *!info* dan *!donasi
 
 INFO BOT! :
 🔱 *AUTHOR*: Zxuan55
-🔱 *GITHUB*: https://github.com/benisadewa/Bot_Aero
+🔱 *GITHUB*: https://github.com/Zxuan55/Bot-Aero
 🔱 *INSTAGRAM*: ${instagram}
 🔱 *YOUTUBE*: ${youtube}
 🔱 *TELEGRAM* : ${telegram}
