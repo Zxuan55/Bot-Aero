@@ -1,4 +1,4 @@
-## REUZSC
+## Bot_Aero
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -16,8 +16,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/benisadewa/reuzsc
-> cd reuzsc
+> git clone https://github.com/Zxuan55/Bot_Aero
+> cd Bot_Aero
 > bash install.sh
 > node index.js
 ```
