@@ -1,5 +1,5 @@
 exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, telegram, youtube, kapanbotaktif, grupch1, grupch2) => {
-	return `🔱*${Bot_Aero}*🔱
+	return `🔱*${Bot-Aero}*🔱
   
 HALO *${id.split("@s.whatsapp.net")[0]}* 
 APA KABAR? SEMOGA BAIK-BAIK SAJA!
